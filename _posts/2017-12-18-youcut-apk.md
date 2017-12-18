@@ -3,7 +3,7 @@ layout: post
 title: YouCut Video Düzenleyici APK
 ---
 
-<p>YouCut en popüler Android video düzenleyici APK uygulamalarından birisidir. APK dosyasını aşağıdaki butondan kolayca indirebilirsiniz. İndirmeden önce YouCut Video Editor uygulamasının özelliklerine bir göz atın:</p>
+<p><strong>YouCut</strong> en popüler Android video düzenleyici APK uygulamalarından birisidir. APK dosyasını aşağıdaki butondan kolayca indirebilirsiniz. İndirmeden önce <strong>YouCut Video Editor</strong> uygulamasının özelliklerine bir göz atın:</p>
 
 <ul>
 <li>Tamamen ücretsizdir.</li>
