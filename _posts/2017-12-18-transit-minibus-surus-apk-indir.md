@@ -7,5 +7,5 @@ title: Transit Minibüs Sürüş İndir
 
 <center><img src="/images/transit.png" alt="Transit Minibüs Sürüş Modlu APK Oyun" /><br/>
 
-<a href="transitminibus.apk" target="_blank"><button class="button3">İNDİR</button></a>
+<a href="/transitminibus.apk" target="_blank"><button class="button3">İNDİR</button></a>
 </center>
