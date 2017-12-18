@@ -14,4 +14,4 @@ title: Clean Now APK İndir
 
 <p>Uygulamanın iddia ettiği özellikler bu şekildedir. Uygulamayı APK olarak hızlı bir şekilde indirebilirsiniz.</p>
 
-<a href="clean-now.apk"><button class="button3">İNDİR</button></a>
+<a href="/clean-now.apk" target="_blank"><button class="button3">İNDİR</button></a>
