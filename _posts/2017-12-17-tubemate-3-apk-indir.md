@@ -7,4 +7,4 @@ title: TubeMate 3 APK İndir (Son Sürüm)
 
 <p>Uygulama Google Play markette bulunmadığı için en uygun seçenek APK olarak indirmektir. Bunun için orjinal <strong>TubeMate İndir</strong> sitesini kullanabilirsiniz.</p>
 
-<a href="http://tubemateindir.com/"><button>İndir</button></a>
+<a href="http://tubemateindir.com"><button class="button3">İNDİR</button></a>
