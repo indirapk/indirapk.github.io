@@ -3,7 +3,7 @@ layout: post
 title: Clean Now APK İndir
 ---
 
-<p>Clean Now APK Android uygulaması cihazınızdaki gereksiz dosyaları temizler ve cihazınızı hızlandırır. Ayrıca bellek temizliğini ve dosya yönetimini sağlar. Kısaca özellikleri şu şekildedir:</p>
+<p><strong>Clean Now APK</strong> Android uygulaması cihazınızdaki gereksiz dosyaları temizler ve cihazınızı hızlandırır. Ayrıca bellek temizliğini ve dosya yönetimini sağlar. Kısaca özellikleri şu şekildedir:</p>
 
 <ul>
 <li>Gereksiz dosyaları temizler.</li>
