@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Hakkımızda & İletişim
 permalink: /about/
 ---
 
-Some information about you!
+Web sitemiz indirapk.club 17.12.2017 tarihinde yayına başlamıştır. Ücretsiz APK dosyalarını ziyaretçileriyle paylaşmaktadır. Ücretli APK dosyaları sitemizde yayınlanmamaktadır. 
 
-### More Information
+### İletişim
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+İletişime geçmek için e-posta adresimizi kullanabilirsiniz.
