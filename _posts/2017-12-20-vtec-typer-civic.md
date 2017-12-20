@@ -10,5 +10,5 @@ title: Vtec Typer Civic Sürüş
 <p><strong>Vtec Typer Civic Sürüş</strong> APK olarak sitemizden indirilebileceği gibi; doğrudan <strong>Google Play Store</strong> üzerinden kurulum da yapılabilir.</p>
 
 <center>
-<a href="/vtec.apk" target="_blank"><button class="button3">İNDİR</button></a>
+<a href="/" target="_blank"><button class="button3">İNDİR</button></a>
 </center>
