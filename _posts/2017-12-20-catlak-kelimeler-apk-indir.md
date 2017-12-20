@@ -3,7 +3,7 @@ layout: post
 title: Çatlak Kelimeler APK İndir
 ---
 
-<center><img src="/images/catlak.png" alt="Sarahah Son Sürüm" width="200px"/>
+<center><img src="/images/catlak.png" alt="Çatlak Kelimeler" width="200px"/>
 </center>
 <p><strong>Çatlak Kelimeler APK İndir</strong> seçeneği ile oynamaya başlayabilirsiniz. Çatlak Kelimeler basit bir kelime oyunudur. Son günlerde yaygınlaşan bu tür oyunlara yeni eklenenlerden birisidir. Oyunda size verilen konu başlığını kullanarak karmaşık harflerden konuya uygun Türkçe kelimeyi buluyorsunuz.</p>
 
