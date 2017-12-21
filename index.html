@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% for post in paginator.posts %}
 <div class="article">
     <div class="well">
@@ -27,4 +28,4 @@ layout: default
   {% if paginator.next_page %}
     <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">Daha Önceki</a>
   {% endif %}
-
+</div>
