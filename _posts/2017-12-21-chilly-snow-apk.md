@@ -10,5 +10,5 @@ title: Chilly Snow APK
 </p>
 
 <center>
-<a href="/chilly.apk" target="_blank"><button class="button3"Chilly Snow APK İNDİR</button></a>
+<a href="https://play.google.com/store/apps/details?id=com.acidcousins.chilly" target="_blank" rel="nofollow"><button class="button3"Chilly Snow</button></a>
 </center>
