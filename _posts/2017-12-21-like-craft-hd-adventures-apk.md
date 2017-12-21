@@ -4,7 +4,7 @@ title: Like Craft HD Adventures APK İndir
 ---
 
 <center>
-<img src="/images/likecraft.jpg" alt="Like Craft HD Adventures" width="300px"/>
+<img src="/images/likecraft.png" alt="Like Craft HD Adventures" width="300px"/>
 </center>
 <p>Meşhur Minecraft oyununa benzer fakat ondan daha kaliteli görselleri olan <strong>Like Craft HD Adventures APK İndir</strong> seçeneği ile yayınlandı. Oyunun görseli son derece kaliteli. Ayrıca Like Craft joyistik ve tüm Android cihazlarla oynanılabilir.
 </p>
