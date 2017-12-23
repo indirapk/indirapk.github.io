@@ -5,6 +5,7 @@ title: iSpor APK iOS - Canlı Maç Yayınları
 
 <p><strong>iSpor APK iOS</strong> için geliştirilmiş bir uygulamadır. Bu uygulama şuanda Google Play gibi marketlerde bulunmamaktadır. APK olarak arıyorsanız aşağıdaki indir butonunu kullanabilirsiniz. <strong>iSpor IOS</strong> uygulamasının özelliklerinden bazıları:</p>
 <img src="/images/a10VGR.png" alt="iSpor apk ios" width="200px"/>
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- apkbaglanti2 -->
 <ins class="adsbygoogle"
