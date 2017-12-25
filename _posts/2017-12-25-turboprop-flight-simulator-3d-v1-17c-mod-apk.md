@@ -9,7 +9,7 @@ title: Turboprop Flight Simulator 3D V1.17C MOD APK İndir (Sınırsız Para)
 <p>Bir uçak sürüş oyunu olan <strong>Turboprop Flight Simulator 3D V1.17C MOD APK İndir Sınırsız Para</strong> seçeneği ile yayınlandı. Bu simülatör en gelişmiş uçak oyunlarından birisidir. Grafikleri hiç de fena sayılmaz. Birçok farklı özelliğe sahip.
 </p>
 
-<p>Özellikler:</p>
+<h2>Özellikler:</h2>
 <ul>
 <li>Sınırsız Para</li>
 <li>MOD APK</li>
@@ -26,7 +26,7 @@ title: Turboprop Flight Simulator 3D V1.17C MOD APK İndir (Sınırsız Para)
 <li>Günün çeşitli saatlerinde, sis ve rüzgar koşullarında uçun.</li>
 </ul>
 
-<p>Diğer Özellikler:</p>
+<h2>Diğer Özellikler:</h2>
 <ul>
 <li>2017'de piyasaya sürülen yeni ve ücretsiz uçan simülatör oyunu!</li>
 <li>ZORUNLU DEĞİŞİM YOK! Uçuşlar arasında sadece isteğe bağlı, ödüllü olanlar.</li>
