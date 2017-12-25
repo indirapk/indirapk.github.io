@@ -8,4 +8,4 @@ Web sitemiz <a href="https://indirapk.club">indirapk.club</a> 17.12.2017 tarihin
 
 ### İletişim
 
-İletişime geçmek için e-posta adresimizi kullanabilirsiniz.
+İletişime geçmek için e-posta adresimizi kullanabilirsiniz: indirapk.club@gmail.com
