@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start Craft: Exploration 2 APK İndir
+title: Start Craft Exploration 2 APK İndir
 ---
 
 <center>
