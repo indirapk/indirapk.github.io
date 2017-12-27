@@ -13,7 +13,7 @@ title: Extra Craft Forest Survival HD APK İndir
 <ul>
 <li>Ücretsiz</li>
 <li>Satın alınan içerik olmadan</li>
-<li>Kolay operasyon</li></li>
+<li>Kolay operasyon</li>
 <li>Güzel oyun</li>
 <li>Bütün yaşlar için</li>
 </ul>
