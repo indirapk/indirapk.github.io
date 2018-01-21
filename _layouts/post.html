@@ -36,18 +36,9 @@ layout: default
 
  <h3>Son Eklenen APK Uygulamalar ve Oyunlar</h3>
     <ul>
-        {% for post in site.posts limit:7 %}
+        {% for post in site.posts limit:15 %}
           <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 	
-	<h3 id="yorumlar">Yorumlar</h3>
-<form>
-<div class="form-group">
-<label for="usr">İsminiz:</label>
-<input type="text" class="form-control" id="usr"><br>
-<label for="comment">Yorumunuz:</label>
-<textarea class="form-control" rows="5" id="comment"></textarea><br>
-<button type="submit" class="btn btn-primary">Gönder</button>
-</div>
-</form>
+asd
