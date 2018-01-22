@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div style="width:75%; float:left;">
+<div style="float:left;">
 {% for post in paginator.posts %}
 <div class="article">
     <div class="well">
@@ -29,7 +29,7 @@ layout: default
   {% endif %}
 </div>
 </div>
-<div style="width:25%; float: left;">
+<div style="float: left; margin-left:20px;">
     <h3>Son Eklenen APK Uygulamalar ve Oyunlar</h3>
     <ul>
         {% for post in site.posts limit:7 %}
