@@ -2,17 +2,7 @@
 layout: default
 ---
 <div class="cerceve">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- wifisitebaglanti -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2943359289617623"
-     data-ad-slot="8124423294"
-     data-ad-format="link"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-{% for post in paginator.posts %}
+  {% for post in paginator.posts %}
 <div class="article">
     <div class="well">
         <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></h1>
