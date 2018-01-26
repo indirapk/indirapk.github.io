@@ -40,12 +40,18 @@ layout: default
     </ul>
 </div>
 <style>
-    @media only screen and (max-width: 768px) {
-        .yanbar {width: 100%; float:none;}
-        .cerceve {width: 100%; float:none;}
+        .yanbar {float: left; width:24%; margin-left:1%;
+        @include mobile {
+            width: 100%; float:none;
+            }
     }
-    .cerceve {width:75%; float:left;}
-    .yanbar {float: left; width:24%; margin-left:1%;}
+      
+    .cerceve {width:75%; float:left;
+    @include mobile{
+        width: 100%; float:none;
+        }
+    }
+    
     .btn {
     display: inline-block;
     padding: 6px 12px;
